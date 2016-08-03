@@ -18,3 +18,4 @@ _temp
 !wallaby.js
 
 npm-debug.log
+.DS_Store
